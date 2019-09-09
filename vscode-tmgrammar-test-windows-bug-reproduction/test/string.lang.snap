@@ -1,0 +1,4 @@
+>"string"
+#^ source.lang string.quoted.double.lang
+# ^^^^^^ source.lang string.quoted.double.lang
+#       ^ source.lang string.quoted.double.lang

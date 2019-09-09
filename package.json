@@ -34,6 +34,6 @@
         "vscode-tmgrammar-test": "0.0.5"
     },
     "scripts": {
-        "test": "vscode-tmgrammar-snap --grammar syntaxes/lang.tmLanguage.json --scope source.lang --testcases 'test/**/*.lang'"
+        "test": "vscode-tmgrammar-snap --grammar syntaxes/lang.tmLanguage.json --scope source.lang --testcases \"test/**/*.lang\""
     }
 }
